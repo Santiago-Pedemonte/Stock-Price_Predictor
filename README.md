@@ -1,5 +1,5 @@
-# Stock-Price Predictor
-A simple predictor that runs on Jupyter Notebook to gather and predict the prices of stocks (also works for cryptocurrencies supported by the Yahoo Finance API) 
+# Stock/Crypto Price Predictor
+A simple predictor that runs on Jupyter Notebook to gather and predict the prices of stocks (also works for cryptocurrencies supported by the Yahoo Finance API) with Deep Learning. The neural networks takes in historical prices and outputs a 1-day-ahead price prediction.
 
 ### Necessary Imports
 
